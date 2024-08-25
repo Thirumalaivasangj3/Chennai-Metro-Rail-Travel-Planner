@@ -1,4 +1,5 @@
-Chennai Metro Rail Travel Planner
+CHENNAI METRO RAIL TRAVEL PLANNER 
+
 This is a web-based travel planner for the Chennai Metro Rail system, built using HTML, CSS, JavaScript, and PHP. The website allows users to plan their metro journeys, providing details such as fare, stops, duration, distance, and upcoming train timings. It also features an interactive map and responsive design.
 
 Table of Contents
